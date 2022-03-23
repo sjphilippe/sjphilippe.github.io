@@ -23,7 +23,9 @@ external:                  # shows a footer with social links - for available ic
   - {title: Mail, icon: envelope, url: "mailto:niklasbuschmann@users.noreply.github.com"}
   - {title: Github, icon: github, url: "https://github.com/niklasbuschmann/contrast"}
   - {title: LinkedIn, icon: linkedin, url: "https://www.linkedin.com/in/sheyjeanphilippe/"}
-  - {title: Test, icon: fa-regular fa-dragon, url: "https://www.linkedin.com/in/sheyjeanphilippe/"}
+  - {title: Test, icon: fa-regular fa-dragon, url: ""}
+  - {title: Test, icon: dragon, url: ""}
+  - {title: Test, icon: regular dragon, url: ""}
 
 comments:
 #  disqus_shortname: ""    # see https://disqus.com/
