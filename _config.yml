@@ -16,6 +16,7 @@ minimal: false             # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
+  - {title: "SheyJean-Philippe Data Analytics Portfolio"}
   - {file: "index.html"}
   - {file: "README.md", title: "About me"}
 
