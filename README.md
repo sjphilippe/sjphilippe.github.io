@@ -4,7 +4,7 @@ permalink: "/about/"
 layout: page
 ---
 
-<p align="center> 
+<p align="center"> 
           I always liked writing science reports as an undergraduate. Specifically, the results and description section of the paper. Creating graphical representations
           of raw data and teasing out its implications to create a story was and still is my favorite. 
           
