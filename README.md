@@ -4,7 +4,6 @@ permalink: "/about/"
 layout: page
 ---
 
-<div align="center">
           
 I always liked writing science reports as an undergraduate. Specifically, the results and description section of the paper. 
 
@@ -18,4 +17,3 @@ Data is in constant flux, and my diverse industry experience provides a fresh pe
 
 In my free time I enjoy training my two cats, gardening and traveling to new boba tea shops. 
 
-</div>
