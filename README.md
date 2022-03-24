@@ -4,8 +4,9 @@ permalink: "/about/"
 layout: page
 ---
 
-          
-I always liked writing science reports as an undergraduate. Specifically, the results and description section of the paper. 
+### Hi, I'm Shey
+
+I've always liked writing science reports as an undergraduate. Specifically, the results and description section of the paper. 
 
 Creating graphical representations of raw data and teasing out its implications to create a story was and still is my favorite. 
 
