@@ -1,10 +1,10 @@
 ---
-title: "About me"
+title: "Hello, I'm Shey"
 permalink: "/about/"
 layout: page
 ---
 
-### Hi, I'm Shey
+
 
 I've always liked writing science reports as an undergraduate. Specifically, the results and description section of the paper. 
 
