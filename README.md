@@ -18,4 +18,4 @@ Data is in constant flux, and my diverse industry experience provides a fresh pe
 
 In my free time I enjoy training my two cats, gardening and traveling to new boba tea shops. 
 
-[View Resume Here]()
+[View Resume Here](https://github.com/sjphilippe/sjphilippe.github.io/blob/master/SheyJeanPhilippe.pdf)
