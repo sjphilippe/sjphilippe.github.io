@@ -5,17 +5,12 @@ layout: page
 ---
 
 
+With a unique blend of experience in healthcare and data analytics, I'm passionate about turning complex data into actionable insights. As a retired Physical Therapist Assistant, with bachelor's degrees in Environmental Science & Policy and Biology, I have honed my analytical skills and developed a strong foundation in science and healthcare.
 
-I've always liked writing science reports as an undergraduate. Specifically, the results and description section of the paper. 
+Over the past two years, I've transitioned into data analytics, working on various projects that showcase my ability to analyze and interpret data effectively. I thrive on exploring unique datasets and developing data-driven solutions that deliver meaningful results. My ultimate goal is to move into AI research, where I can leverage my analytical expertise to contribute to groundbreaking innovations.
 
-Creating graphical representations of raw data and teasing out its implications to create a story was and still is my favorite. 
+When I'm not immersed in data, you'll find me sipping on some tea, tending to my garden, or experimenting with fermentation. These hobbies fuel my curiosity, creativity, and love for science, allowing me to explore and experiment in new ways. This same energy and scientific curiosity are what I bring to every project I tackle.
 
-In every industry I’ve worked in from tech, healthcare, sales and education, data has challenged me to think critically about my environments and the information I observe. 
-
-Asking, what does it mean, why is it this way, who will this impact, where can I implement changes, and when will this occur?
-
-Data is in constant flux, and my diverse industry experience provides a fresh perspective to company norms. 
-
-In my free time I enjoy training my two cats, gardening and traveling to new boba tea shops. 
+I am dedicated to continuous learning and eager to collaborate with like-minded professionals. If you're looking for someone who is not only skilled in data analytics but also brings a fresh perspective and a passion for AI research, let's connect!
 
 [View Resume Here](https://github.com/sjphilippe/sjphilippe.github.io/blob/master/SheyJeanPhilippe.pdf)
