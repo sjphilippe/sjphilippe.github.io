@@ -9,6 +9,8 @@ categories: media
 
 This portfolio case study explores whether Maven should keep, modify, or discontinue Jamaican Coffee River as a hypothetical menu pilot. I combined six months of sales data across three stores with coffee import prices and estimated bean and packaging costs to evaluate demand, margins, and pricing options.
 
+![](assets/img/coffeecup.png)
+
 **Tools:** SQL Server, SQL, and Claude for coding and documentation assistance.
 
 **My role:** I defined the business question, selected the sources and cost assumptions, ran every query in SQL Server, checked the outputs, and made the final recommendation. Claude helped draft SQL, documentation, and supporting calculations. See [how I worked with Claude.](reflections.md) 
