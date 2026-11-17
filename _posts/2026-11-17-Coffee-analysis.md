@@ -19,7 +19,7 @@ This portfolio case study explores whether Maven should keep, modify, or discont
 ### Summary of Findings
 
 
-My recommendation is to keep Jamaican Coffee River on the menu while exploring a cheaper roaster and a $0.25 price increase. Under the modeled cost assumptions, reducing the roaster multiplier from 3× to 2× and holding sales volume constant would have added an estimated $8,405 in margin over six months. This is a scenario result, not realized savings. See the [business brief](business_brief.md) for the findings and assumptions.
+My recommendation is to keep Jamaican Coffee River on the menu while exploring a cheaper roaster and a $0.25 price increase. Under the modeled cost assumptions, reducing the roaster multiplier from 3× to 2× and holding sales volume constant would have added an estimated $8,405 in margin over six months. This is a scenario result, not realized savings. See the [business brief](https://github.com/sjphilippe/analytics-case-studies/blob/main/Coffee-Data-Project/business_brief.md)) for the findings and assumptions.
 
 Jamaican was the top seller by revenue in every store, making up 26.5% of coffee sales.Jamaican’s estimated bean cost was over four times Brazilian’s, but its selling price was only slightly higher. Under the cost model, Jamaican retained about 52% of revenue after bean and packaging costs, compared with 75% to 83% for the other coffees. Applying the other coffees’ average margin per cup at each size to Jamaican’s sales volume produced a $6,741 benchmark gap over six months
 
