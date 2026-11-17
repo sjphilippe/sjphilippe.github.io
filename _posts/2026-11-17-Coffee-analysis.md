@@ -46,16 +46,16 @@ Jamaican was the top seller by revenue in every store, making up 26.5% of coffee
 
 | File | What it is |
 | --- | --- |
-| [business_brief.md](business_brief.md) | Findings|
-| [data_dictionary.md](data_dictionary.md) | Every table and column use in this project |
-| [source_to_target_mapping.md](source_to_target_mapping.md) | How the sources join into the analysis view, plus validation results |
-| [data_issues_log.md](data_issues_log.md) | Data problems found and how each was fixed |
-| [reflections.md](reflections.md) | Personal write-up on the project |
-| [01_setup.sql](01_setup.sql) | One-time setup: renames, type fixes, analysis view |
-| [02_validation.sql](02_validation.sql) | Data quality checks |
-| [03_analysis.sql](03_analysis.sql) | Queries related to business questions |
-| [04_scenarios.sql](04_scenarios.sql) | Adjusted price and roaster scenarios |
-| [**Cost-per-cup table**](coffee_cost_per_cup.csv) | product costs assumed for this project |
+| [business_brief.md](https://github.com/sjphilippe/analytics-case-studies/blob/main/Coffee-Data-Project/business_brief.md) | Findings |
+| [data_dictionary.md](https://github.com/sjphilippe/analytics-case-studies/blob/main/Coffee-Data-Project/data_dictionary.md) | Every table and column used in this project |
+| [source_to_target_mapping.md](https://github.com/sjphilippe/analytics-case-studies/blob/main/Coffee-Data-Project/source_to_target_mapping.md) | How the sources join into the analysis view, plus validation results |
+| [data_issues_log.md](https://github.com/sjphilippe/analytics-case-studies/blob/main/Coffee-Data-Project/data_issues_log.md) | Data problems found and how each was fixed |
+| [reflections.md](https://github.com/sjphilippe/analytics-case-studies/blob/main/Coffee-Data-Project/reflections.md) | Personal write-up on the project |
+| [01_setup.sql](https://github.com/sjphilippe/analytics-case-studies/blob/main/Coffee-Data-Project/01_setup.sql) | One-time setup: renames, type fixes, analysis view |
+| [02_validation.sql](https://github.com/sjphilippe/analytics-case-studies/blob/main/Coffee-Data-Project/02_validation.sql) | Data quality checks |
+| [03_analysis.sql](https://github.com/sjphilippe/analytics-case-studies/blob/main/Coffee-Data-Project/03_analysis.sql) | Queries related to business questions |
+| [04_scenarios.sql](https://github.com/sjphilippe/analytics-case-studies/blob/main/Coffee-Data-Project/04_scenarios.sql) | Adjusted price and roaster scenarios |
+| [**Cost-per-cup table**](https://github.com/sjphilippe/analytics-case-studies/blob/main/Coffee-Data-Project/coffee_cost_per_cup.csv) | Product costs assumed for this project |
 
 ### How to run
 
