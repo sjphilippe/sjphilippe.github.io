@@ -13,7 +13,7 @@ This portfolio case study explores whether Maven should keep, modify, or discont
 
 **Tools:** SQL Server, SQL, and Claude for coding and documentation assistance.
 
-**My role:** I defined the business question, selected the sources and cost assumptions, ran every query in SQL Server, checked the outputs, and made the final recommendation. Claude helped draft SQL, documentation, and supporting calculations. See [how I worked with Claude.](reflections.md) 
+**My role:** I defined the business question, selected the sources and cost assumptions, ran every query in SQL Server, checked the outputs, and made the final recommendation. Claude helped draft SQL, documentation, and supporting calculations. See [how I worked with Claude.](https://github.com/sjphilippe/analytics-case-studies/blob/main/Coffee-Data-Project/reflections.md)
 
 
 ### Summary of Findings
@@ -35,7 +35,7 @@ Jamaican was the top seller by revenue in every store, making up 26.5% of coffee
 #### Data
 1. **[Maven transactions](https://mavenanalytics.io/data-playground/coffee-shop-sales):** the public Maven Roasters dataset, 149,116 transaction lines, January 1 to June 30, 2023, from three New York stores (Astoria, Hell's Kitchen, Lower Manhattan).
 2. **[WITS imports](https://wits.worldbank.org/trade/comtrade/en/country/USA/year/2023/tradeflow/Imports/partner/ALL/product/090111):** World Bank trade data (World Integrated Trade Solution) on 2023 US imports of green, unroasted coffee, giving the average price per kg for each origin country.
-3. [**Cost-per-cup table**](coffee_cost_per_cup.csv): built for this project, with one row per coffee and size (12 in total) estimating what each cup costs in beans and packaging. The formula and assumptions are in the Business Brief.
+3. [**Cost-per-cup table**](https://github.com/sjphilippe/analytics-case-studies/blob/main/Coffee-Data-Project/coffee_cost_per_cup.csv): built for this project, with one row per coffee and size (12 in total) estimating what each cup costs in beans and packaging. The formula and assumptions are in the Business Brief.
 
 ### Dataset limitations
 - The sales data has no costs, so bean cost is estimated from 2023 import prices plus an assumed roaster markup. The import prices also cover all of 2023, while sales cover only January to June.
